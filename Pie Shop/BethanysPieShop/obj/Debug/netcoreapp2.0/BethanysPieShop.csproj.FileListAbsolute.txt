@@ -1,0 +1,11 @@
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojResolveAssemblyReference.cache
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Users\kyleg\Downloads\aspdotnet-core-2-0-mvc-application-visual-studio-2017\03\demos\Demos\Start\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
